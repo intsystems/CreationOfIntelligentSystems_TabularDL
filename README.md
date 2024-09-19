@@ -21,10 +21,10 @@
 
 ## 🔎 Idea and Novelty
 - Try to solve various problems from Tabular Deep Learning using tricks from optimization methods
-- [LinkReview]
+- [LinkReview](https://github.com/intsystems/CreationOfIntelligentSystems_TabularDL/blob/main/linkreview.md)
 
 ## 💡 Abstract
 TODO
 
 ## 🔗 Useful links
-- [OptimizatorTable]
+- [OptimizatorTable](https://docs.google.com/spreadsheets/d/1NzE8goiMWpePRL8-KgSBaxq97zyRou-v6eF5Px0NFu4/edit?usp=sharing)
