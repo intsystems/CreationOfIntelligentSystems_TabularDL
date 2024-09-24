@@ -18,6 +18,7 @@
 | Symbolic Discovery of Optimization Algorithms (LION) | 2023 | Chen et al. | [arxiv](https://arxiv.org/pdf/2301.07733) <br> [GitHub](https://github.com/google/automl/tree/master/lion)| Otimizator LION that is better than Adam (according to authors) |
 | signSGD: Compressed Optimization for Non-Convex Problems | 2018 | Bernstein et al. | [arxiv](https://arxiv.org/pdf/1802.04434) <br> [GitHub](https://github.com/jxbz/signSGD/blob/master/signSGD_zeros.ipynb)| signSGD, should work well in the fine-tuning, maybe will work well in TabularDL |
 |      |      |      |      |      |
-| Towards Deep Learning Models Resistant to Adversarial Attacks | 2019 | Madry et al. | [arxiv](https://arxiv.org/pdf/1706.06083)| Adversarial training |
-| Adversarial Training for Deep Learning-based Intrusion Detection Systems | 2021 | Debicha et al. | [arxiv](https://arxiv.org/pdf/2104.09852)| Adversarial training |
-|<span style="color:red"> TODO: Adversarial training </span> |
+| Robust optimization for adversarial learning with finite sample complexity guarantees | 2024 | Bertolace et al. | [arxiv](https://arxiv.org/pdf/2403.15207)| Adversarial training |
+| Understanding adversarial training: Increasing local stability of supervised models through robust optimization | 2018 | Shaham et al. | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231218304557)| Adversarial training |
+| Interpreting Robust Optimization via Adversarial Influence Functions | 2020 | Deng et al. | [ICML](http://proceedings.mlr.press/v119/deng20a/deng20a.pdf)| Adversarial training |
+| Adversarial Distributional Training for Robust Deep Learning | 2020 | Dong et al. | [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2020/file/5de8a36008b04a6167761fa19b61aa6c-Paper.pdf)| Adversarial training |
