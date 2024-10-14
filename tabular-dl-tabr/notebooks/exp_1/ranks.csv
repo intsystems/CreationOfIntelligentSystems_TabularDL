@@ -1,0 +1,46 @@
+key,avg,std,AD
+(E) TabR,1.0,0.0,1
+(E) MLP-PLR,1.0,0.0,1
+(E) MLP-PLR (adagrad),2.0,0.0,2
+(E) MLP-PLR (mechanize),3.0,0.0,3
+MLP-PLR,3.0,0.0,3
+MLP-PLR (adagrad),3.0,0.0,3
+TabR,3.0,0.0,3
+(E) MLP-PLR (lion),4.0,0.0,4
+(E) MLP-PLR (prodigy),4.0,0.0,4
+MLP-PLR (lion),5.0,0.0,5
+MLP-PLR (prodigy),5.0,0.0,5
+(E) MLP-PLR (sgd),5.0,0.0,5
+MLP-PLR (sgd),6.0,0.0,6
+(E) MLP-PLR (adamW),6.0,0.0,6
+(E) MLP-PLR (rmsprop),7.0,0.0,7
+MLP-PLR (rmsprop),8.0,0.0,8
+MLP-PLR (adamW),8.0,0.0,8
+(E) MLP-LR,9.0,0.0,9
+MLP-LR,9.0,0.0,9
+(E) MLP-LR (sgd),10.0,0.0,10
+(E) MLP-PLR (signsgd),10.0,0.0,10
+(E) MLP-LR (FW_Vanilla_R_2),10.0,0.0,10
+(E) MLP-LR (adagrad),10.0,0.0,10
+MLP-LR (FW_Vanilla_R_2),10.0,0.0,10
+MLP-LR (adagrad),10.0,0.0,10
+(E) MLP-LR (lion),10.0,0.0,10
+(E) MLP-LR (mechanize),10.0,0.0,10
+(E) MLP-LR (prodigy),11.0,0.0,11
+(E) MLP-LR (adamW),12.0,0.0,12
+MLP-LR (sgd),12.0,0.0,12
+MLP-LR (prodigy),12.0,0.0,12
+(E) MLP-LR (rmsprop),12.0,0.0,12
+MLP-LR (rmsprop),13.0,0.0,13
+MLP-LR (lion),13.0,0.0,13
+MLP-LR (adamW),13.0,0.0,13
+MLP-PLR (signsgd),13.0,0.0,13
+(E) MLP-LR (signsgd),14.0,0.0,14
+MLP-LR (signsgd),15.0,0.0,15
+(E) MLP-LR (projGD_R_2),15.0,0.0,15
+(E) MLP-PLR (projGD_R_2),16.0,0.0,16
+MLP-PLR (mechanize),16.0,0.0,16
+MLP-PLR (projGD_R_2),16.0,0.0,16
+MLP-LR (projGD_R_2),16.0,0.0,16
+MLP-LR (mechanize),17.0,0.0,17
+MLP-PLR (FW_Vanilla_R_2),18.0,0.0,18
